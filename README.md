@@ -1,14 +1,14 @@
 <div align=center>
 
-#  lintu's Performance Mod
+#  lintu's Performance Mod (1080p branch)
 
-A mod that's designed specifically to generally optimize and drastically improve performance in Fortnite on the Nintendo Switch.
+A mod that's designed specifically to generally optimize and drastically improve performance in Fortnite on the Nintendo Switch. This branch in particular targets 30FPS, at the expense of running at a full 1080p resolution docked and 720p undocked.
 
 </div>
 <br>
 
-# Where do I download the mod?
-You can always find the latest release of the mod  [right here!](https://github.com/IzTendo/NSW-FortnitePerformanceMod/releases)
+# Where do I download this branch?
+Click on "lintusPerformanceMod1080" and download the raw file.
 
 # What do I need in order to use the mod?
 A modded Nintendo Switch console running [Atmosphere custom firmware](https://github.com/Atmosphere-NX/Atmosphere)
