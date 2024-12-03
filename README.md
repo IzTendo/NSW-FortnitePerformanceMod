@@ -8,7 +8,7 @@ A mod that's designed specifically to generally optimize and drastically improve
 <br>
 
 # Where do I download this branch?
-Click on "lintusPerformanceMod1080" and download the raw file.
+Click on "lintusPerformanceMod1080.zip" and download the raw file.
 
 # What do I need in order to use the mod?
 A modded Nintendo Switch console running [Atmosphere custom firmware](https://github.com/Atmosphere-NX/Atmosphere)
